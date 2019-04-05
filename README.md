@@ -48,7 +48,7 @@ You will need the following equipment to make and assemble your own HaptiStrap:
 
 <img align="center" width="250" height="250" src="image/elastic_tensioner.JPG"><img align="center" width="250" height="250" src="image/spring_tensioner.JPG">
 
-We highly recommend using the elastic tensioner system for any application as it was shown to have more consistent mechanical properties than 3d printed springs.
+Despite making the 3D printed spring option available, we highly recommend using the elastic tensioner system for any application as it was shown to have more consistent mechanical properties.
 
 ## 3D Printing 
 

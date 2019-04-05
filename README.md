@@ -160,3 +160,8 @@ Here is a set of recommended placement instructions that allows to position both
 3. Pull on the velcro strap away from the limb, such that the visual indicators on both the tensioner and the enclosure are aligned.
 4. Maintaining the tension, wrap the velcro strap around the limb such that it is secured to the rest of the system.
 5. Validate that the visual indicators are still aligned, readjust as needed.
+
+
+# Credit 
+This work makes use of the "Achimedean Spiral Module" (CC BY 3.0: https://creativecommons.org/licenses/by/3.0/) by user "Manticorp", available on thingiverse: https://www.thingiverse.com/thing:1267784
+

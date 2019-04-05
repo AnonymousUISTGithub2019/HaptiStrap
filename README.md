@@ -35,7 +35,7 @@ INSERT PAPER BILIOGRAPHY ENTRY HERE.
 # Making your Own Haptistrap 
 
 ## Equipment
-You will need the following equipment to make and assemble your own HaptiStrap:
+You will need access to the following equipment to make and assemble your own HaptiStrap:
 
 1. FDM 3D printer
 2. PLA filament (approximately 5 g or 2 m)
@@ -48,15 +48,15 @@ You will need the following equipment to make and assemble your own HaptiStrap:
 
 <img align="center" width="250" height="250" src="image/elastic_tensioner.JPG"><img align="center" width="250" height="250" src="image/spring_tensioner.JPG">
 
-Despite making the 3D printed spring option available, we highly recommend using the elastic tensioner system for any application as it was shown to have more consistent mechanical properties.
+Despite making the 3D printed spring option available, we highly recommend using the elastic tensioner system as it was shown to have more consistent mechanical properties.
 
 ## 3D Printing 
 
 ### Get the Files
 
-Before printing your own HaptiStrap, you will need to download the STL files.
+Before printing your own HaptiStrap, you will need to download the pre-rendered STL files or generate them from the provided OpenSCAD design files.
 
-The type of tensioner you want to use dictates the path and file name of the files to download. As mentioned above, we highly recommend using the elastic tensioner.
+The type of tensioner you want to use dictates the path and file name of the files to download.
 
 | Tensioner Type | File|
 |---|---|
